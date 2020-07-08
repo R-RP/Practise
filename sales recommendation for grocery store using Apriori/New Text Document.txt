@@ -1,0 +1,3 @@
+This program goal is to provide sales recommendation to a Supermarket in France.
+Given the billing details (products bought by customer) of a supermarket, we have give recommendation to the supermarket to increase the sales by finding the correlation between the products.
+You can find 2 program under this project one is  to find correlation btw 2 products and other is to find correlation btw 3products.
