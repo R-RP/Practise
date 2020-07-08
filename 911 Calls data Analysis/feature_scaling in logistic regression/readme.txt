@@ -1,0 +1,1 @@
+This is fake dataset, the aim is to do feature scalinig in ML algorithims
